@@ -1,1 +1,3 @@
 # geo
+
+Geolocaton class
